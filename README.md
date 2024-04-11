@@ -1,4 +1,4 @@
-# 💫 Hey, I'm Bethanie!:
+# 💫 Hey, I'm Bethanie !:
 Currrently I'm a software engineering student. I'm an AI engineer wannabe :).<br>
 
 
